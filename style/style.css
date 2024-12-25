@@ -1,0 +1,98 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body {
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+#fullbox {
+    max-width: 1604px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 96px;
+    background-color: #E8EEFF;
+}
+#heading {
+    text-align: center;
+    margin-bottom: 64px;
+}
+h1 {
+    color: #181D27;
+    font-size: 72px;
+    margin-bottom: 24px;
+}
+
+#analytics {
+    color: #05F;
+}
+#smarter {
+    color: #6941C6;
+}
+#heading > p {
+    color: #535862;
+    font-size: 20px;
+}
+#imgcenter {
+    max-width: 1200px;
+    width: 100%;
+    margin: 0 auto;
+}
+#firstdiv {
+    display: inline-block;
+    padding: 16px;
+    border-radius: 8px;
+    background: #FFF;
+    text-align: center;
+    max-width: 449px;
+    width: 100%;
+    margin-right: 32px;
+    vertical-align: middle;
+}
+#firstdiv > img {
+    margin-bottom: 19.81px;
+    padding: 12px;
+    border: 1px solid #E9EAEB;
+    background-color: #FFF;
+    border-radius: 10px;
+}
+#shareteam {
+    color: #181D27;
+    font-size: 20px;
+}
+#whether {
+    margin-top: 7.65px;
+    color: #535862;
+    font-size: 16px;
+}
+#seconddiv {
+    display: inline-block;
+    padding: 16px;
+    border-radius: 8px;
+    background: #FFF;
+    text-align: center;
+    max-width: 430px;
+    width: 100%;
+    margin-right: 32px;
+    vertical-align: middle;
+}
+#seconddiv > img {
+    margin-bottom: 19.81px;
+    padding: 12px;
+    border: 1px solid #E9EAEB;
+    background-color: #FFF;
+    border-radius: 10px;
+}
+#instant {
+    color: #181D27;
+    font-size: 20px;
+}
+#anall {
+    margin-top: 5px;
+    color: #535862;
+    font-size: 16px;
+}
+#df {
+    margin-top: 64px;
+}
