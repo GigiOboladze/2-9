@@ -47,7 +47,7 @@ h1 {
     text-align: center;
     max-width: 449px;
     width: 100%;
-    margin-right: 32px;
+    margin-right: 10px;
     vertical-align: middle;
 }
 #firstdiv > img {
@@ -72,9 +72,9 @@ h1 {
     border-radius: 8px;
     background: #FFF;
     text-align: center;
-    max-width: 430px;
+    max-width: 449px;
     width: 100%;
-    margin-right: 32px;
+    margin-right: 10px;
     vertical-align: middle;
 }
 #seconddiv > img {
@@ -91,8 +91,87 @@ h1 {
 #anall {
     margin-top: 5px;
     color: #535862;
-    font-size: 16px;
+    font-size: 14px;
 }
 #df {
     margin-top: 64px;
+    margin-bottom: 64px;
 }
+
+#thirddiv {
+    display: inline-block;
+    padding: 16px;
+    border-radius: 8px;
+    background: #FFF;
+    text-align: center;
+    max-width: 449px;
+    width: 100%;
+    margin-right: 32px;
+    vertical-align: middle;
+}
+#thirddiv > img {
+    margin-bottom: 19.81px;
+    padding: 12px;
+    border: 1px solid #E9EAEB;
+    background-color: #FFF;
+    border-radius: 10px;
+}
+#manage {
+    color: #181D27;
+    font-size: 20px;
+}
+#measure {
+    margin-top: 5px;
+    color: #535862;
+    font-size: 16px;
+}
+
+
+#purple {
+    max-width: 1216px;
+    width: 100%;
+    background-color: #53389E;
+    border-radius: 24px;
+    margin: 0 auto;
+}
+#purpleleft {
+    display: inline-block;
+    padding: 64px;
+    vertical-align: middle;
+}
+#giveus {
+    color: #FFF;
+    font-size: 36px;
+    display: inline-block;
+}
+#joinover {
+    color: #E9D7FE;
+    font-size: 20px;
+    margin-top: 19.49px;
+    margin-bottom: 47.78px;
+    display: inline-block;
+}
+#learn {
+    padding: 12px 18px;
+    background-color: #FFF;
+    color: #414651;
+    font-size: 16px;
+    border: 1px solid #D5D7DA;
+    border-radius: 8px;
+    margin-right: 11.96px;
+}
+#started {
+    padding: 12px 18px;
+    border: 2px solid #FFF;
+    background-color: #7F56D9;
+    border-radius: 8px;
+    color: #FFF;
+}
+#purpleright {
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 149px;
+    border-top-right-radius: 24px;
+    border-bottom-right-radius: 24px;
+}
+
